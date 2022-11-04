@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAABmZmZmZmZm3WZmZmZmZnbeZmZmZmZmd91mZmZmZmZn3WZmZmZmZmbdZmZmZmZmZt1mZmZmZmZm3WZmZmZmZvbdZmZmZmZmZt1mZmZmZmZm7WZmZmZmdmbdZmZmZmZ2d91mZmZmZmZ212ZmZmZmZnfdZmZmZmZmZt1mZmZmZmZm3w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ocean"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
