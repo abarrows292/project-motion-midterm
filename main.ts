@@ -235,7 +235,7 @@ game.onUpdate(function () {
     head.y += controller.dy()
 })
 game.onUpdateInterval(300, function () {
-    food.setPosition(randint(0, 10), randint(0, 10))
+    food.setPosition(randint(0, 100), randint(0, 100))
     fish.setPosition(randint(0, 100), randint(0, 100))
     otherFish.setPosition(randint(0, 100), randint(0, 100))
     fishy.setPosition(randint(0, 100), randint(0, 100))
